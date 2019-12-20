@@ -5,3 +5,4 @@ Some update
 
 This will create conflict
 CONFLICT ALERT!!!!!!!!
+change
